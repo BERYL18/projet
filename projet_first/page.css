@@ -1,0 +1,126 @@
+body{
+    background-image: url(/images/bbac.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+    letter-spacing: 2px;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    font-family: sans-serif;    
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.6rem;
+}
+
+.nave{
+  font-size: 14px;
+  text-indent: 20px; 
+}
+
+.effort{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+    
+}
+
+.great{
+    width: 30rem;
+    height: 20rem;
+    line-height: 2rem;
+
+}
+
+.plan{
+    font-size: 11px;
+    color: #8894e5;
+}
+
+.doall{
+    font-size: px;
+}
+
+.price{
+    line-height: 14px;
+    font-size: 20px;
+
+}
+
+h3{
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.lets{
+    color: black;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    display: grid;
+    background-color: white;
+    box-shadow: 0px 8px 5px 5px rgb(243, 241, 241);
+    height: 20rem;
+    width: 18rem;
+}
+
+input{
+    height: 2rem;
+    width: 15rem;
+    padding-left: 10px;
+}
+
+button{
+    border-radius: 2rem;
+    width: 15rem;
+    margin-left: 20px;
+}
+
+.mail{
+  margin-bottom: 10px; 
+}
+
+.demo{
+    margin-bottom: 15px;
+    background-color: #6266e4;
+    border-color:#6266e4 ;
+    color: white;
+}
+.talk{
+background-color: white;
+border-color: #6266e4;
+color: #6266e4;
+}
+.hello{
+    color: black;
+    text-align:center;
+    margin-top: 5rem;
+}
+
+.last{
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    text-align: center;
+    line-height: 1.5rem;
+    margin-top: 6rem;
+}
+img{
+    width: 5rem;
+}
+.last div{
+    width: 25rem;
+}
+.dule{
+    margin-bottom: 15px;
+    margin-top: 25px;
+    background-color: #6266e4;
+    border-color:#6266e4 ;
+    color: white;
+    width: 20rem;
+    height: 3rem;
+    margin-left: 38%;
+
+}
