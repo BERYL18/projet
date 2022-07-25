@@ -61,7 +61,7 @@ h3{
     padding-bottom: 50px;
     display: grid;
     background-color: white;
-    box-shadow: 0px 8px 5px 5px rgb(243, 241, 241);
+    box-shadow: 2px 8px 5px 5px rgb(240, 239, 239);
     height: 20rem;
     width: 18rem;
 }
@@ -70,6 +70,7 @@ input{
     height: 2rem;
     width: 15rem;
     padding-left: 10px;
+    border:solid 1px gainsboro;
 }
 
 button{
@@ -85,12 +86,12 @@ button{
 .demo{
     margin-bottom: 15px;
     background-color: #6266e4;
-    border-color:#6266e4 ;
+    border: #6266e4;
     color: white;
 }
 .talk{
 background-color: white;
-border-color: #6266e4;
+border: solid #6266e4;
 color: #6266e4;
 }
 .hello{
@@ -113,14 +114,18 @@ img{
 .last div{
     width: 25rem;
 }
+.pepe{
+    text-align: center;
+}
+
 .dule{
+    border: #6266e4;
     margin-bottom: 15px;
     margin-top: 25px;
     background-color: #6266e4;
-    border-color:#6266e4 ;
     color: white;
-    width: 20rem;
-    height: 3rem;
-    margin-left: 38%;
+    width: 15rem;
+    height: 3.3rem;
+   
 
 }
